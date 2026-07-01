@@ -1,0 +1,298 @@
+canonical_identifier: bkk:krp/KR6v0531/GA/v1
+canonical_location: https://kanripo.org/bkk/KR6v0531/GA/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鹿泉寺志
+  identifiers:
+    krp: KR6v0531
+    cbeta: GA043n0044
+    cbeta_old_id: GA043n0044
+    authorityid: CA0008673
+    json_key: GA0044
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA043/GA043n0044.xml
+    old_id: GA043n0044
+  edition:
+    short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0531_000-GA.yaml, hash: 'sha256:77c505eae5d47d4a947be02f3ed25610469f440d5f8af2cbdaecf55ef702bc9d'}
+  - {seq: 1, filename: KR6v0531_001-GA.yaml, hash: 'sha256:b998f5f2746be8f27d4f7a033ae347b258e0c215907e710031361407284502c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0531_000-GA.markers.yaml, hash: 'sha256:b723fc812262c7785850ea167ad2d7d8bb883d7c2ebdb24c1594d8dd55915c32'}
+  - {seq: 1, role: markers, filename: assets/KR6v0531_001-GA.markers.yaml, hash: 'sha256:9ab1ca8658f2a61b0f94f7ff726e11c5175f692b238e36729ae6c354ca9584b0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0531_GA_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 版本說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-juan-start
+    span:
+    - body
+    - 0
+    - 6221
+  label: 鹿泉寺志卷之十一数集
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 古蹟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-2
+    span:
+    - body
+    - 418
+    - 418
+  label: 五言詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-3
+    span:
+    - body
+    - 424
+    - 424
+  label: 陪潤州薛司空、丹徒桂明府游招󷿝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-4
+    span:
+    - body
+    - 480
+    - 480
+  label: 招󷿝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-5
+    span:
+    - body
+    - 524
+    - 524
+  label: 招󷿝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-6
+    span:
+    - body
+    - 568
+    - 568
+  label: 郡守東萊勝侯約遊招󷿝山，醉中紀興
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-7
+    span:
+    - body
+    - 931
+    - 931
+  label: 春日邀陳自所郡矦招󷿝寺登覽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-8
+    span:
+    - body
+    - 1025
+    - 1025
+  label: 秋日遊招󷿝寺回飲于竹院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-9
+    span:
+    - body
+    - 1177
+    - 1177
+  label: 七言詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-10
+    span:
+    - body
+    - 1183
+    - 1183
+  label: 詠玉蘂花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-11
+    span:
+    - body
+    - 1458
+    - 1458
+  label: 詠玉蘂花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-12
+    span:
+    - body
+    - 1500
+    - 1500
+  label: 春望
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-13
+    span:
+    - body
+    - 1559
+    - 1559
+  label: 招󷿝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-14
+    span:
+    - body
+    - 1627
+    - 1627
+  label: 南涯、玉山、南郭三大夫邀登招󷿝，用舊韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-15
+    span:
+    - body
+    - 1699
+    - 1699
+  label: 遊招󷿝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-16
+    span:
+    - body
+    - 1767
+    - 1767
+  label: 同吳文臺郡守、徐龍寰邑令游招󷿝（二首）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-17
+    span:
+    - body
+    - 1896
+    - 1896
+  label: 遊招󷿝寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-18
+    span:
+    - body
+    - 1960
+    - 1960
+  label: 賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-19
+    span:
+    - body
+    - 1960
+    - 1960
+  label: 招󷿝寺賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-20
+    span:
+    - body
+    - 2542
+    - 2542
+  label: 記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-21
+    span:
+    - body
+    - 2542
+    - 2542
+  label: 玉蘂仙踪堂記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-22
+    span:
+    - body
+    - 3440
+    - 3440
+  label: 招󷿝寺記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-23
+    span:
+    - body
+    - 4367
+    - 4367
+  label: 重修招󷿝寺記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-24
+    span:
+    - body
+    - 4925
+    - 4925
+  label: 萬古清流記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0531_GA_001-mulu-25
+    span:
+    - body
+    - 5382
+    - 5382
+  label: 如斯亭對
+  type: mulu
+  level: 1
+hash: sha256:a8793785babcce16cc8aa52771d1405bb2a2fe0e4d9a1040f302c026db69be60
