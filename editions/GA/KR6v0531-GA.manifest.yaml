@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6v0531_001-GA.yaml, hash: 'sha256:b998f5f2746be8f27d4f7a033ae347b258e0c215907e710031361407284502c9'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0531_000-GA.markers.yaml, hash: 'sha256:b723fc812262c7785850ea167ad2d7d8bb883d7c2ebdb24c1594d8dd55915c32'}
-  - {seq: 1, role: markers, filename: assets/KR6v0531_001-GA.markers.yaml, hash: 'sha256:9ab1ca8658f2a61b0f94f7ff726e11c5175f692b238e36729ae6c354ca9584b0'}
+  - {seq: 1, role: markers, filename: assets/KR6v0531_001-GA.markers.yaml, hash: 'sha256:51a6d25c036704b3d3b50c3e29731fc01671a61b6afb77d3c026da2b8c58d5c1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -295,4 +295,4 @@ table_of_contents:
   label: 如斯亭對
   type: mulu
   level: 1
-hash: sha256:a8793785babcce16cc8aa52771d1405bb2a2fe0e4d9a1040f302c026db69be60
+hash: sha256:eb163ea1d9fd6e593e5090b538ce38991cea5ca39ffd2f97fb16cd5d6d8988df
