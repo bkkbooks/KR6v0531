@@ -18,17 +18,17 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0531_000.yaml, hash: 'sha256:4496420a60d66da200ec8223199938fc7cce9b03f0e71add2f909a1fde0b7b68'}
+  - {seq: 0, filename: KR6v0531_000.yaml, hash: 'sha256:86a921a2ff8a50528669d874b1352c8ddf1c77a9c7b922ed1c1ae071a15646f6'}
   - {seq: 1, filename: KR6v0531_001.yaml, hash: 'sha256:bf10287304ad769f98f5e39e4593d84a3e829bf3f6c9dd069ee0ae1ac8b715cf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0531_000.markers.yaml, hash: 'sha256:095156383039913b438ec3c51458adf5eb1609ddb5755f2a3cb2d4dcb421784f'}
+  - {seq: 0, role: markers, filename: assets/KR6v0531_000.markers.yaml, hash: 'sha256:46e6e380d34eb902ff9c7f7b265fe3e3d22c0bc8dfb6d7fe353c9c8f85825049'}
   - {seq: 1, role: markers, filename: assets/KR6v0531_001.markers.yaml, hash: 'sha256:2078079d337971cff4fcefefa14069eabffeaddf53bbf0338d188425463fc5be'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0531_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -294,7 +294,7 @@ table_of_contents:
   label: 如斯亭對
   type: mulu
   level: 1
-hash: sha256:c3af01241d8dbdd180d164e79f2a7b45ff6aefc82d9bab00965cdf4db3255a50
+hash: sha256:120ecfea9e15d157ab2a3a7614c3400fd1ef0a7ff4d12cf3bc3ab5ca3724ed97
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
